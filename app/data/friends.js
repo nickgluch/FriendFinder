@@ -1,7 +1,7 @@
 var friendsArray = [
     {
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Good boy",
+        "photo": "https://www.guidedogs.org/wp-content/uploads/2015/05/Dog-Im-Not.jpg",
         "scores": [
             5,
             1,
@@ -17,5 +17,6 @@ var friendsArray = [
     }
 ];
 
-module.exports = friendsArray;
+module.exports = (friendsArray);
+
 
